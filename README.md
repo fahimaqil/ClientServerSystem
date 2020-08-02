@@ -3,9 +3,8 @@ A client server system made using Python. The system is used to query a list of 
 
 ## How to run
 
-""""
-
+'''
 python3 client.py server.py
 
 
-"""
+'''

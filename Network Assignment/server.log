@@ -1,0 +1,8 @@
+2018-12-09 21:28:28,226:INFO:Server is created 
+2018-12-09 21:28:28,226:INFO:Listening to client... 
+2018-12-09 21:28:32,294:INFO:Connection success! 
+2018-12-09 21:28:37,477:INFO:Artist's name requested: Michael
+2018-12-09 21:28:42,664:INFO:Artist's name requested: None
+2018-12-09 21:28:47,979:INFO:Artist's name requested: Ali
+2018-12-09 21:28:51,326:INFO:Artist's name requested: Quit
+2018-12-09 21:28:51,326:INFO:Time connected: 19.031932268000002
